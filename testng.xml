@@ -5,7 +5,7 @@
 
     <test name="order">
         <classes>
-            <class name="QA" />
+            <class name="AutomationTest2" />
         </classes>
     </test>
 

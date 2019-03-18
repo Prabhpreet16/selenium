@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1a9bdad2-44e0-4c8a-81a0-9ab9a0ec11af" name="Default Changelist" comment="" />
+    <list default="true" id="1a9bdad2-44e0-4c8a-81a0-9ab9a0ec11af" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exe/QA.properties" beforeDir="false" afterPath="$PROJECT_DIR$/exe/QA.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/AutomationTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/AutomationTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/AutomationTest2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/AutomationTest2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,18 +19,9 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/QA.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
+            <state relative-caret-position="253">
               <caret line="18" column="38" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -36,22 +33,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testng.xml">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/AutomationTest2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="179">
-              <caret line="113" column="22" selection-start-line="113" selection-start-column="8" selection-end-line="113" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="75">
+              <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -59,8 +44,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/exe/QA.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+            <state relative-caret-position="450">
+              <caret line="30" column="23" lean-forward="true" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testng.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -68,8 +62,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/AutomationTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="37" column="76" selection-start-line="36" selection-start-column="12" selection-end-line="37" selection-end-column="76" />
+            <state relative-caret-position="209">
+              <caret line="37" column="76" selection-start-line="37" selection-start-column="76" selection-end-line="37" selection-end-column="76" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/AutomationTest2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="74">
+              <caret line="30" column="51" selection-start-line="30" selection-start-column="51" selection-end-line="30" selection-end-column="51" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -94,9 +100,9 @@
       <list>
         <option value="$PROJECT_DIR$/QA.properties" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/testng.xml" />
         <option value="$PROJECT_DIR$/src/test/java/QA.java" />
         <option value="$PROJECT_DIR$/src/test/java/AutomationTest.java" />
+        <option value="$PROJECT_DIR$/testng.xml" />
         <option value="$PROJECT_DIR$/exe/QA.properties" />
         <option value="$PROJECT_DIR$/src/test/java/AutomationTest2.java" />
       </list>
@@ -179,7 +185,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552892233206" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552901647061" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -205,7 +211,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.AutomationTest2.tc2">
+  <component name="RunManager" selected="TestNG.AutomationTest2 (2)">
+    <configuration name="AutomationTest2 (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="QaTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AutomationTest2" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AutomationTest2 (2)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="QaTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AutomationTest2" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="AutomationTest2" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="QaTest" />
       <option name="PACKAGE_NAME" value="" />
@@ -217,11 +245,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AutomationTest2.tc2 (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="AutomationTest2.book_flight" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="QaTest" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="AutomationTest2" />
-      <option name="METHOD_NAME" value="tc2" />
+      <option name="METHOD_NAME" value="book_flight" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -229,35 +257,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AutomationTest2.tc2 (2)" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="AutomationTest2.city" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="QaTest" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="AutomationTest2" />
-      <option name="METHOD_NAME" value="tc2" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AutomationTest2.tc2" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="QaTest" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="AutomationTest2" />
-      <option name="METHOD_NAME" value="tc2" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AutomationTest.tc1" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="QaTest" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="AutomationTest" />
-      <option name="METHOD_NAME" value="tc1" />
+      <option name="METHOD_NAME" value="city" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -266,19 +270,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="TestNG.AutomationTest2.tc2" />
-      <item itemvalue="TestNG.AutomationTest2.tc2 (1)" />
+      <item itemvalue="TestNG.AutomationTest2.book_flight" />
       <item itemvalue="TestNG.AutomationTest2" />
-      <item itemvalue="TestNG.AutomationTest2.tc2 (2)" />
-      <item itemvalue="TestNG.AutomationTest.tc1" />
+      <item itemvalue="TestNG.AutomationTest2 (1)" />
+      <item itemvalue="TestNG.AutomationTest2.city" />
+      <item itemvalue="TestNG.AutomationTest2 (2)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.AutomationTest2.tc2" />
-        <item itemvalue="TestNG.AutomationTest.tc1" />
-        <item itemvalue="TestNG.AutomationTest2.tc2 (2)" />
+        <item itemvalue="TestNG.AutomationTest2 (2)" />
+        <item itemvalue="TestNG.AutomationTest2.city" />
+        <item itemvalue="TestNG.AutomationTest2 (1)" />
         <item itemvalue="TestNG.AutomationTest2" />
-        <item itemvalue="TestNG.AutomationTest2.tc2 (1)" />
+        <item itemvalue="TestNG.AutomationTest2.book_flight" />
       </list>
     </recent_temporary>
   </component>
@@ -299,35 +303,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AutomationTest2_tc2 - 2019.03.18 at 10h 37m 04s.xml">
-      <configuration name="AutomationTest2.tc2" configurationId="TestNG" />
+    <history-entry file="_home_ttn_Projects_QaTest_testng_xml - 2019.03.18 at 14h 45m 42s.xml">
+      <configuration name="/home/ttn/Projects/QaTest/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="AutomationTest2_tc2 - 2019.03.18 at 10h 52m 14s.xml">
-      <configuration name="AutomationTest2.tc2" configurationId="TestNG" />
+    <history-entry file="AutomationTest2_login - 2019.03.18 at 14h 47m 14s.xml">
+      <configuration name="AutomationTest2.login" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="AutomationTest2_tc2 - 2019.03.18 at 10h 58m 11s.xml">
-      <configuration name="AutomationTest2.tc2" configurationId="TestNG" />
+    <history-entry file="_home_ttn_Projects_QaTest_testng_xml - 2019.03.18 at 14h 47m 54s.xml">
+      <configuration name="/home/ttn/Projects/QaTest/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="AutomationTest2_tc2_(2) - 2019.03.18 at 11h 04m 02s.xml">
-      <configuration name="AutomationTest2.tc2 (2)" configurationId="TestNG" />
+    <history-entry file="_home_ttn_Projects_QaTest_testng_xml - 2019.03.18 at 14h 49m 09s.xml">
+      <configuration name="/home/ttn/Projects/QaTest/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="AutomationTest2_tc2 - 2019.03.18 at 11h 07m 45s.xml">
-      <configuration name="AutomationTest2.tc2" configurationId="TestNG" />
+    <history-entry file="_home_ttn_Projects_QaTest_testng_xml - 2019.03.18 at 14h 51m 06s.xml">
+      <configuration name="/home/ttn/Projects/QaTest/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="AutomationTest2_tc2 - 2019.03.18 at 11h 11m 01s.xml">
-      <configuration name="AutomationTest2.tc2" configurationId="TestNG" />
+    <history-entry file="_home_ttn_Projects_QaTest_testng_xml - 2019.03.18 at 14h 57m 33s.xml">
+      <configuration name="/home/ttn/Projects/QaTest/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="AutomationTest2_tc2 - 2019.03.18 at 11h 13m 12s.xml">
-      <configuration name="AutomationTest2.tc2" configurationId="TestNG" />
+    <history-entry file="AutomationTest2_book_flight - 2019.03.18 at 14h 57m 49s.xml">
+      <configuration name="AutomationTest2.book_flight" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="AutomationTest2_tc2 - 2019.03.18 at 11h 19m 24s.xml">
-      <configuration name="AutomationTest2.tc2" configurationId="TestNG" />
+    <history-entry file="AutomationTest2 - 2019.03.18 at 14h 58m 40s.xml">
+      <configuration name="AutomationTest2" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="AutomationTest_tc1 - 2019.03.18 at 12h 18m 28s.xml">
-      <configuration name="AutomationTest.tc1" configurationId="TestNG" />
+    <history-entry file="AutomationTest2_(1) - 2019.03.18 at 15h 02m 37s.xml">
+      <configuration name="AutomationTest2 (1)" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="AutomationTest2_tc2 - 2019.03.18 at 12h 19m 02s.xml">
-      <configuration name="AutomationTest2.tc2" configurationId="TestNG" />
+    <history-entry file="AutomationTest2_city - 2019.03.18 at 15h 03m 46s.xml">
+      <configuration name="AutomationTest2.city" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
@@ -345,16 +349,16 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32792208" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32736155" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39739415" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3306189" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3306189" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.3284553" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32792208" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32736155" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -366,36 +370,6 @@
       <window_info anchor="right" id="Maven Projects" order="8" />
       <window_info anchor="right" id="Maven" order="9" />
     </layout>
-    <layout-to-restore>
-      <window_info id="Image Layers" order="0" />
-      <window_info id="Designer" order="1" />
-      <window_info id="UI Designer" order="2" />
-      <window_info id="Capture Tool" order="3" />
-      <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.24980047" />
-      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="1" />
-      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="4" weight="0.3284553" />
-      <window_info anchor="bottom" id="Message" order="5" />
-      <window_info anchor="bottom" id="Find" order="6" />
-      <window_info anchor="bottom" id="Run" order="7" visible="true" weight="0.3284553" />
-      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="11" />
-      <window_info anchor="right" id="Palette" order="0" />
-      <window_info anchor="right" id="Capture Analysis" order="1" />
-      <window_info anchor="right" id="Database" order="2" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="right" id="Palette&#9;" order="4" />
-      <window_info anchor="right" id="Maven Projects" order="5" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -414,9 +388,33 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.8/testng-6.8.jar!/org/testng/Assert.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="93" selection-start-line="93" selection-end-line="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/AutomationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="37" column="76" selection-start-line="37" selection-start-column="76" selection-end-line="37" selection-end-column="76" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/QA.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
+        <state relative-caret-position="253">
           <caret line="18" column="38" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -426,34 +424,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testng.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/exe/QA.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/AutomationTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="37" column="76" selection-start-line="36" selection-start-column="12" selection-end-line="37" selection-end-column="76" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="450">
+          <caret line="30" column="23" lean-forward="true" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/AutomationTest2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="113" column="22" selection-start-line="113" selection-start-column="8" selection-end-line="113" selection-end-column="22" />
+        <state relative-caret-position="74">
+          <caret line="30" column="51" selection-start-line="30" selection-start-column="51" selection-end-line="30" selection-end-column="51" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
